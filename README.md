@@ -76,13 +76,18 @@ Marketing-Analytics/
 ## 📊 Dashboards  
 
 - **Overview Dashboard** → High-level business KPIs.
-  ![image]([https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Overview.jpg])
-- **Conversion Details Dashboard** → Insights on conversion funnel and drop-off points.
-  ![image]([https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Conversion%20Details.jpg])
-- **Customer Reviews Dashboard** → Sentiment analysis from reviews.
-![image]([https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/CustomerReviewDetails.jpg])
-- **Social Media Dashboard** → Engagement metrics across platforms.
-![image]([https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/SocialMediaDetails.jpg])  
+- **Overview Dashboard** → High-level business KPIs.  
+  ![Overview Dashboard](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Overview.jpg)  
+
+- **Conversion Details Dashboard** → Insights on conversion funnel and drop-off points.  
+  ![Conversion Details](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Conversion%20Details.jpg)  
+
+- **Customer Reviews Dashboard** → Sentiment analysis from reviews.  
+  ![Customer Reviews](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/CustomerReviewDetails.jpg)  
+
+- **Social Media Dashboard** → Engagement metrics across platforms.  
+  ![Social Media](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/SocialMediaDetails.jpg)  
+
 
 ---
 
