@@ -75,7 +75,6 @@ Marketing-Analytics/
 
 ## 📊 Dashboards  
 
-- **Overview Dashboard** → High-level business KPIs.
 - **Overview Dashboard** → High-level business KPIs.  
   ![Overview Dashboard](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Overview.jpg)  
 
@@ -83,10 +82,10 @@ Marketing-Analytics/
   ![Conversion Details](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Conversion%20Details.jpg)  
 
 - **Customer Reviews Dashboard** → Sentiment analysis from reviews.  
-  ![Customer Reviews](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/CustomerReviewDetails.jpg)  
+  ![Customer Reviews](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Customer%20Review%20Details.jpg)  
 
 - **Social Media Dashboard** → Engagement metrics across platforms.  
-  ![Social Media](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/SocialMediaDetails.jpg)  
+  ![Social Media](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Social%20Media%20Details.jpg)  
 
 
 ---
