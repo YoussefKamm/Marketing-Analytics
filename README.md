@@ -78,7 +78,7 @@ Marketing-Analytics/
 - **Overview Dashboard** → High-level business KPIs.
   ![image]([https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Overview.jpg])
 - **Conversion Details Dashboard** → Insights on conversion funnel and drop-off points.
-  ![image]([https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/ConversionDetails.jpg])
+  ![image]([https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Conversion%20Details.jpg])
 - **Customer Reviews Dashboard** → Sentiment analysis from reviews.
 ![image]([https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/CustomerReviewDetails.jpg])
 - **Social Media Dashboard** → Engagement metrics across platforms.
