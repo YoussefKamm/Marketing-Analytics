@@ -82,7 +82,7 @@ Marketing-Analytics/
 - **Customer Reviews Dashboard** → Sentiment analysis from reviews.
 ![image]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg])
 - **Social Media Dashboard** → Engagement metrics across platforms.
-![image]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg])  
+![image](Dashboard/Cap/Social Media Details.jpg)  
 
 ---
 
