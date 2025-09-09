@@ -76,15 +76,13 @@ Marketing-Analytics/
 ## 📊 Dashboards  
 
 - **Overview Dashboard** → High-level business KPIs.
-  ![image]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Overview.jpg))
+  ![image]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg])
 - **Conversion Details Dashboard** → Insights on conversion funnel and drop-off points.
-  ![image]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Conversion%20Details.jpg))
+  ![image]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg])
 - **Customer Reviews Dashboard** → Sentiment analysis from reviews.
-![image]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Customer%20Review%20Details.jpg))
+![image]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg])
 - **Social Media Dashboard** → Engagement metrics across platforms.
-![image]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg](https://github.com/YoussefKamm/Marketing-Analytics/blob/main/Dashboard/Cap/Social%20Media%20Details.jpg))  
-
-*(Insert dashboard images here)*  
+![image]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg])  
 
 ---
 
